@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://kimchicon.org/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Apr 2015 14:32:19 +0900</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2015 14:32:19 +0900</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2015 14:35:18 +0900</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2015 14:35:18 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -107,7 +107,7 @@
     
       <item>
         <title>차민석</title>
-        <description>&lt;/b&gt;&lt;br&gt;현 안랩 시큐리티대응센터 분석팀 책임 연구원으로 악성코드 분석/연구 업무를 수행 중&lt;br&gt;제 4,5기 민관합동조사단, 미래창조과학부 사이버보안전문단으로 활동 중&lt;br&gt;AMTSO(Anti Malware Testing Standards Organization), AVED(AntiVirus Emergency Descussion), vforum 등의 맴버이며, 와일드리스트(WildList Reporter) 리포터로 활동하고 있다.&lt;br&gt;코드엔진, 코드게이트 등에서 발표 경험이 있으며 2014년 K-Sheild 강사를 했다&lt;br&gt;현재 보안 공부 외에도 장인 어르신 얼굴과 닮아 가끔 깜짝 놀라게 하는 아들을 육아 중이다.&lt;br&gt;</description>
+        <description>&lt;/b&gt;&lt;br&gt;현 안랩 시큐리티대응센터 분석팀 책임 연구원으로 악성코드 분석/연구 업무를 수행 중&lt;br&gt;제 4,5기 민관합동조사단, 미래창조과학부 사이버보안전문단으로 활동 중&lt;br&gt;AMTSO(Anti Malware Testing Standards Organization), AVED(AntiVirus Emergency Discussion), vforum 등의 맴버이며, 와일드리스트(WildList Reporter) 리포터로 활동하고 있다.&lt;br&gt;코드엔진, 코드게이트 등에서 발표 경험이 있으며 2014년 K-Shield 강사를 했다&lt;br&gt;현재 보안 공부 외에도 장인 어르신 얼굴과 닮아 가끔 깜짝 놀라게 하는 아들을 육아 중이다.&lt;br&gt;</description>
         <pubDate>Mon, 06 Apr 2015 00:00:00 +0900</pubDate>
         <link>https://kimchicon.org/board/2015/04/06/project-22/</link>
         <guid isPermaLink="true">https://kimchicon.org/board/2015/04/06/project-22/</guid>
