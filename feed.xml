@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://kimchicon.org/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Jul 2015 08:30:34 +0900</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2015 08:30:34 +0900</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2015 08:34:35 +0900</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2015 08:34:35 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -71,7 +71,7 @@
     
       <item>
         <title>곽성현</title>
-        <description>&lt;b&gt;현장 셋업&lt;br&gt; 커피타임 및 이벤트 준비&lt;/b&gt;&lt;br&gt;&lt;br&gt;현 NSHC RedAlert팀 악성코드 분석 연구원&lt;br&gt;공기 좋은 의왕에서 닭 울음소리와 경운기소리의 콜라보를 들으며 악성코드 분석 중</description>
+        <description>&lt;b&gt;행사 진행&lt;/b&gt;&lt;br&gt;&lt;br&gt;현 NSHC RedAlert팀 악성코드 분석 연구원&lt;br&gt;공기 좋은 의왕에서 닭 울음소리와 경운기소리의 콜라보를 들으며 악성코드 분석 중</description>
         <pubDate>Mon, 06 Apr 2015 00:00:00 +0900</pubDate>
         <link>https://kimchicon.org/staff/2015/04/06/project-4/</link>
         <guid isPermaLink="true">https://kimchicon.org/staff/2015/04/06/project-4/</guid>
@@ -83,7 +83,7 @@
     
       <item>
         <title>최현우</title>
-        <description>&lt;b&gt;리셉션&lt;/b&gt;&lt;br&gt;&lt;br&gt;현 KAIST 정보보호대학원 박사과정&lt;br&gt;KAIST 시스템보안연구실</description>
+        <description>&lt;b&gt;행사 진행&lt;/b&gt;&lt;br&gt;&lt;br&gt;현 KAIST 정보보호대학원 박사과정&lt;br&gt;KAIST 시스템보안연구실</description>
         <pubDate>Mon, 06 Apr 2015 00:00:00 +0900</pubDate>
         <link>https://kimchicon.org/staff/2015/04/06/project-3/</link>
         <guid isPermaLink="true">https://kimchicon.org/staff/2015/04/06/project-3/</guid>
@@ -94,8 +94,8 @@
       </item>
     
       <item>
-        <title>강혜인</title>
-        <description>&lt;/b&gt;&lt;br&gt;&lt;b&gt;등록&lt;/b&gt;&lt;br&gt;&lt;br&gt;Hyein Kayla Kang&lt;br&gt;숙명여대 SISS 약간 시조새 &lt;br&gt;KUCIS 09' 부회장 &lt;br&gt;삼성SDS slave node(이다보니) &lt;br&gt;갑자기 CX팀 발령받고 당황하는 중.&lt;br&gt;</description>
+        <title>강혜인(Kayla Kang)</title>
+        <description>&lt;/b&gt;&lt;br&gt;&lt;b&gt;PR/리셉션&lt;/b&gt;&lt;br&gt;&lt;br&gt;숙명여대 SISS 약간 시조새 &lt;br&gt;KUCIS 09' 부회장 &lt;br&gt;삼성SDS slave node(이다보니) &lt;br&gt;갑자기 CX팀 발령받고 당황하는 중.&lt;br&gt;</description>
         <pubDate>Mon, 06 Apr 2015 00:00:00 +0900</pubDate>
         <link>https://kimchicon.org/staff/2015/04/06/project-24/</link>
         <guid isPermaLink="true">https://kimchicon.org/staff/2015/04/06/project-24/</guid>
